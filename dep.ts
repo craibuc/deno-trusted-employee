@@ -1,0 +1,1 @@
+export { TrustedEmployee } from 'https://raw.githubusercontent.com/craibuc/deno-trusted-employee/main/mod.ts'
